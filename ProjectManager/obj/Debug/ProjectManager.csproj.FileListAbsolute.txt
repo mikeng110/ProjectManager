@@ -1,0 +1,9 @@
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe.config
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.exe
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\bin\Debug\ProjectManager.pdb
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csprojResolveAssemblyReference.cache
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Properties.Resources.resources
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.exe
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.pdb
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Debug\ProjectManager.Form1.resources

@@ -1,0 +1,8 @@
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\bin\Release\ProjectManager.exe.config
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\bin\Release\ProjectManager.exe
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\bin\Release\ProjectManager.pdb
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Release\ProjectManager.Form1.resources
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Release\ProjectManager.Properties.Resources.resources
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Release\ProjectManager.csproj.GenerateResource.Cache
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Release\ProjectManager.exe
+c:\users\main\documents\visual studio 2015\Projects\ProjectManager\ProjectManager\obj\Release\ProjectManager.pdb
